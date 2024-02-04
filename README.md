@@ -7,10 +7,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gurdeepsh25&label=Profile%20views&color=0e75b6&style=flat" alt="gurdeepsh25" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gurdeepsh25" alt="gurdeepsh25" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/gurdeepsh25" target="blank"><img src="https://img.shields.io/twitter/follow/gurdeepsh25?logo=twitter&style=for-the-badge" alt="gurdeepsh25" /></a> </p>
-
 # 💫 About Me:
 🚀 Currently immersed in developing a YouTube Clone using the MERN stack (MongoDB, Express.js, React, Node.js).<br>🌱 Actively expanding my skills with a focus on mastering GraphQL for more efficient data management.<br>💡 Open to collaborative opportunities! Feel free to reach out for project collaborations or innovative ideas.<br>⚡ Fun fact: I once implemented a feature that surprised even seasoned developers on my team! Let's create something amazing together.
 
