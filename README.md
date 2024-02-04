@@ -1,7 +1,7 @@
 ![logo](https://github.com/gurdeepsh25/gurdeepsh25/blob/main/banner.jpg)
 
 <h1 align="center">Hi 👋, I'm Gurdeep Singh</h1>
-<h3 align="center">A passionate frontend developer from Chandigarh, India</h3>
+<h3 align="center">Skilled MERN full-stack developer with a passion for innovation and a proven track record</h3>
 
 <img align="right" alt="coding" width="400" src="https://media1.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
 
